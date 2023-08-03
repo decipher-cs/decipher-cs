@@ -66,8 +66,6 @@
 	<br/>
 	<h2>Stats</h2>
 	<div>
-		<img src="https://streak-stats.demolab.com?user=decipher-cs&theme=ambient-gradient&border_radius=5&card_width=300&hide_total_contributions=true&hide_longest_streak=true"
-			alt="https://git.io/streak-stats" />
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decipher-cs&theme=midnight_purple"
 			alt="commit stats" />
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decipher-cs&theme=midnight_purple&exclude={exclude}"
