@@ -66,12 +66,12 @@
 	<br/>
 	<h2>Stats</h2>
 	<div>
-		<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decipher-cs&theme=midnight_purple"
-			alt="commit stats" />
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=decipher-cs&theme=midnight_purple&exclude={exclude}"
 			alt="commit stats" />
 		<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=decipher-cs&theme=midnight_purple"
 			alt="" />
+		<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decipher-cs&theme=midnight_purple"
+			alt="commit stats" />
 	</div>
 	<br/>
 	<br/>
