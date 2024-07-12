@@ -1,6 +1,6 @@
 <div align="center">
     <h1>About Me</h1>
-    <p>Fullstack developer with a Bachelor's degree in computer science</p>
+    <p>Freelance Fullstack developer</p>
 	<br/>
 	<br/>
 	<h2>Skills</h2>
