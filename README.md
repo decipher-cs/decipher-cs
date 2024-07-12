@@ -1,7 +1,5 @@
 <div align="center">
-    <h1>Freelance Fullstack developer</h1>
-	<br/>
-	<h2>Skills</h2>
+    <h1>Freelance Fullstack Developer</h1>
 	<h4>Languages</h4>
 	<div>
 		<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
