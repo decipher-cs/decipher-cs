@@ -1,7 +1,5 @@
 <div align="center">
-    <h1>About Me</h1>
-    <p>Freelance Fullstack developer</p>
-	<br/>
+    <h1>Freelance Fullstack developer</h1>
 	<br/>
 	<h2>Skills</h2>
 	<h4>Languages</h4>
